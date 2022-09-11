@@ -4,7 +4,7 @@
    -(4) years 
 
 2) Any challenges you faced during the task : 
-   - Use RiverPod state management 
+   - Using RiverPod state management 
 
 3) If this is your first time using RiverPod  : 
    - Yes this is a first time. 
