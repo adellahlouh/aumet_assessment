@@ -1,7 +1,7 @@
 # aumet_assessment
 
 1) Your years of experience :
-   -(4) years 
+   - (4) years 
 
 2) Any challenges you faced during the task : 
    - Use RiverPod state management 
