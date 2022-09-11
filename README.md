@@ -7,7 +7,7 @@
    - Using RiverPod state management 
 
 3) If this is your first time using RiverPod  : 
-   - Yes this is a first time. 
+   - Yes, this is my first time. 
 
 4) If this is your first time using Flutter Web : 
    - No.
