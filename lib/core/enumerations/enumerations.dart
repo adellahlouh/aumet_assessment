@@ -1,0 +1,1 @@
+enum UniversityType {jordan , egypt , spain}

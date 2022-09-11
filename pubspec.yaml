@@ -1,0 +1,42 @@
+name: aumet_assessment
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.5
+
+  #Firebase
+  firebase_core: ^1.22.0
+  cloud_firestore: 3.4.7
+  firebase_auth: ^3.8.0
+
+  #State Management
+  flutter_riverpod: ^1.0.4
+
+  #Networks
+  http: ^0.13.5
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.1
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+

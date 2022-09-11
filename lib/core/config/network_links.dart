@@ -1,0 +1,1 @@
+const String universityBaseUrl = 'http://universities.hipolabs.com/search?country=';
